@@ -82,6 +82,7 @@ int main(int argc, char **argv)
 	//client initialization
 	clientUiCc = n1.serviceClient<second_assignment::VelAdd>("/veladd");	
 	
+	//spinning the process
 	ros::spin();
 	return 0;
 
