@@ -141,7 +141,7 @@ The first node to launch is the one that shows up the circuit environment, in th
 <img src="https://github.com/davidebruzzo/RT_secondAssignment/blob/main/images/sec_ass.drawio.png" width="600" />
 <p>
 
- # Final considerations and conclusions<a name="#issues"></a>
+ # Final considerations and conclusions <a name="#issues"></a>
 ------------------------------------------------
 Dealing with ROS was very challenging because I had to learn how processes communicates each other as long as it is a new 'operative system'. 
 The simple logic under the robot's behavior helped me also to focus on the interaction between different nodes. 
