@@ -144,6 +144,8 @@ The first node to launch is the one that shows up the circuit environment, in th
  # Final considerations and conclusions <a name="#issues"></a>
 ------------------------------------------------
 Dealing with ROS was very challenging because I had to learn how processes communicates each other as long as it is a new 'operative system'. 
+
 The simple logic under the robot's behavior helped me also to focus on the interaction between different nodes. 
 This doesn't means however that robot capacity of driving and turning can't be improved. In fact a possible improvement, is that the turning can be smoother if we are not so close to the circuit lines.
+	
 Another possible improvement can be the file launcher.launch that occupies of launching every node in different consoles.
