@@ -134,7 +134,7 @@ The first node to launch is the one that shows up the circuit environment, in th
  - ```r/R``` to reset robot position
  - ```s/S``` to stop the robot
  
- If the user types a value of them, it sends through the custom service the user choice. In the user_interface it is created the *client* side of this service.
+ If the user types a value of them, it sends through the custom service ```/VelAdd```the user choice. In the user_interface it is created the *client* side of this service.
  
  # Flowchart<a name="flowchart"></a>
  
