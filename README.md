@@ -47,7 +47,7 @@ By that command the robot starts driving, staying in the track limits.
 
 If you want to increase or decrease speed, stop the robot or taking back to its grid position you have also to type:
 ```bash
-$ rosrun rqt_graph rqt_graph
+$ rosrun second_assignment user_interface
 ```
 
 # Code explanation<a name="code"></a>
@@ -55,8 +55,9 @@ $ rosrun rqt_graph rqt_graph
 ### - *Scheme* 
 ------------------------------------------------
 This is the schema of the project and the interaction between the nodes. ROS can genearte this graph by the command:
+
 ```bash
-$ rosrun second_assignment user_interface
+$ rosrun rqt_graph rqt_graph
 ```
 <p align="center">
 <img src="https://github.com/davidebruzzo/RT_secondAssignment/blob/main/images/rosgraph.png" width="700" />
